@@ -18,6 +18,9 @@ public class MyClass {
 
         //dev icinde depişiklik
 
+        //techpro değişikli 3
+        System.out.println("Techpro");
+
 
     }
 
