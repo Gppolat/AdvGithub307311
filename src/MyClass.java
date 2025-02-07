@@ -15,6 +15,10 @@ public class MyClass {
 
         //techpro'da değişiklik2
         System.out.println("Yeni Branch2");
+
+        //dev icinde depişiklik
+
+
     }
 
 
