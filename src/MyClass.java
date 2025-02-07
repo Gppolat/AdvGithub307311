@@ -10,8 +10,8 @@ public class MyClass {
         //Depişiklik 3
         System.out.println("Bu Derste Brachler İşlenecek");
 
-
-
+        //techpro'da değişiklik
+        System.out.println("Yeni Branch");
 
     }
 
